@@ -6,6 +6,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
+  background-color: gray;
 }
 
 .navbar-light, .navbar-toggler {
@@ -54,7 +55,7 @@ header {
 }
 
 .pogi{
-    filter: grayscale(.7);
+    filter: gradient(.7);
 }
 
 .btn-outline-dark{
